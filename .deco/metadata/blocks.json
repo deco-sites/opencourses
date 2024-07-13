@@ -64,5 +64,29 @@
   "/.deco/blocks/Preview%20%2Fsections%2FHerosection.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Herosection.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FFeaturedCourse.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/FeaturedCourse.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FPopularCourse.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/PopularCourse.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FStudentReview.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/StudentReview.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2Fintructors.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/intructors.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FUniversityandinfoproductors.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Universityandinfoproductors.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FTestimonials.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Testimonials.tsx"
   }
 }
