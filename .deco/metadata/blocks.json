@@ -44,5 +44,25 @@
   "/.deco/blocks/deco-htmx.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/htmx.ts"
+  },
+  "/.deco/blocks/pages-login-186209.json": {
+    "name": "login",
+    "path": "/login",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Home%2520Courses-619682.json": {
+    "name": "Home Courses",
+    "path": "/home",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FNavbar.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Navbar.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FHerosection.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Herosection.tsx"
   }
 }
