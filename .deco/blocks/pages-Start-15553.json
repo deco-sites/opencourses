@@ -3,9 +3,28 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/ItWorks.tsx",
-      "name": "<p>It Works!</p>",
-      "count": 1
+      "__resolveType": "Preview /sections/Navbar.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Herosection.tsx"
+    },
+    {
+      "__resolveType": "site/sections/FeaturedCourse.tsx"
+    },
+    {
+      "__resolveType": "site/sections/PopularCourse.tsx"
+    },
+    {
+      "__resolveType": "site/sections/StudentReview.tsx"
+    },
+    {
+      "__resolveType": "site/sections/intructors.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Universityandinfoproductors.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx"
     },
     {
       "__resolveType": "Footer"
